@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Teagan</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank">Teagan</a></b>.
     <br>I'm a Full Stack Web Develoer student based in Knoxville Tennessee.<br>
 
 </samp>
@@ -20,22 +20,19 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
 
+<h2>• I'm passionate about working with/on open source code for self-taught developers to use to advance their skills.</h2>
+<h2>• Currently I am working on <a href="https://github.com/Lambda-School-Labs/citrics-fe-b" alt="Citrics link">Citrics</a></h2>
+
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/teagankeith//">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/teagankeith">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.hackerrank.com/tanx_dev">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hackerrank.png" width="30px" alt="HackerRank"></a>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="teagankeith@protonmail.com">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS81HjuySvO4lw4a1toQ2c5iHtQq6F1eji4fw&usqp=CAU" width="30px" alt="Email"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://leetcode.com/tan_dev/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/leetcode.png" width="30px" alt="LeetCode"></a>
-  &nbsp;
-  &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
 
 
