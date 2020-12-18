@@ -21,7 +21,7 @@
 
 
 <h2>• I'm passionate about working with/on open source code for self-taught developers to use to advance their skills.</h2>
-<h2>• Currently I am working on <a href="https://github.com/Lambda-School-Labs/citrics-fe-b" alt="Citrics link">Citrics</a></h2>
+<h2>• Currently I am working on <a href="https://github.com/Lambda-School-Labs/micro-fund-fe-a" alt="Citrics link">Microfund</a></h2>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/teagankeith//">
