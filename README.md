@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank">Teagan</a></b>.
-    <br>I'm a Full Stack Web Develoer student based in Knoxville Tennessee.<br>
+    <br>I'm a Full Stack Web Developer student based in Knoxville Tennessee.<br>
 
 </samp>
 
