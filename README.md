@@ -28,8 +28,7 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/teagankeith">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
-  &nbsp; &nbsp;
+  
 <!--   <a rel="nofollow noopener noreferrer" target="_blank" href="teagankeith@protonmail.com">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS81HjuySvO4lw4a1toQ2c5iHtQq6F1eji4fw&usqp=CAU" width="30px" alt="Email"></a>
   &nbsp; &nbsp; -->
